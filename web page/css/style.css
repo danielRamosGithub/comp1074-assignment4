@@ -1,0 +1,33 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+nav img {
+    height: 40px;
+    max-height: 40px;
+}
+
+.test {
+    border: 1px solid red;
+    height: 100px;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+h2, h3 {
+    text-align: center;
+    margin: 30px 0px;
+}
+
+.col-md-2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.container .connect-us {
+    display: flex;
+    justify-content: space-around;
+    color: #004b87;
+}
